@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Data Alamat Negatif Case - Nomor Ponsel More Than Maximum Character with another valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b378c1e9-8a10-402d-9138-920e0aaddbcf</testCaseGuid>
+</TestCaseEntity>

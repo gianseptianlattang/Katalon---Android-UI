@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Data Alamat Negatif Case - Alamat Lengkap Empty with another valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f481e03c-f21d-4fdc-a847-b211cc03cf69</testCaseGuid>
+</TestCaseEntity>

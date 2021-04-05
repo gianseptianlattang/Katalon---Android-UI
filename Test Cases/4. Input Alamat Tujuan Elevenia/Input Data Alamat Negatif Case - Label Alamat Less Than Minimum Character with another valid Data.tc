@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Data Alamat Negatif Case - Label Alamat Less Than Minimum Character with another valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b0843a5-af02-4e1f-805f-587c87e0566a</testCaseGuid>
+</TestCaseEntity>

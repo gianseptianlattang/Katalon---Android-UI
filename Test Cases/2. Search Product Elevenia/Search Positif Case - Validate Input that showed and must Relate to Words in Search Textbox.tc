@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Positif Case - Validate Input that showed and must Relate to Words in Search Textbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cfb5935-f368-4ca0-ac52-8ef6c0f8aa34</testCaseGuid>
+</TestCaseEntity>

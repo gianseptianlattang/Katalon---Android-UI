@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Data Alamat Negatif Case - Nomor Ponsel Empty with another valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e80a22d-0f31-4ac1-972b-071757c47f42</testCaseGuid>
+</TestCaseEntity>

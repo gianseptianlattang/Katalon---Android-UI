@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Data Alamat Negatif Case - Kode Pos with Symbol and Alphabet with another valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cee9c6af-64b6-4cde-87f1-9a18b9d71380</testCaseGuid>
+</TestCaseEntity>

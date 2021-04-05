@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Data Alamat Negatif Case - Nama Penerima Empty with another valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11678bb0-dafd-4fd0-baff-4227304a4988</testCaseGuid>
+</TestCaseEntity>

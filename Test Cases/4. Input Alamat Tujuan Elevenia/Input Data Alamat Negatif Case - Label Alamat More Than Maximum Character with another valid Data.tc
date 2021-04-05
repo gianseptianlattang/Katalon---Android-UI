@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Data Alamat Negatif Case - Label Alamat More Than Maximum Character with another valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cda1c5b-b5ed-4b80-a5cc-dcb5247bb304</testCaseGuid>
+</TestCaseEntity>

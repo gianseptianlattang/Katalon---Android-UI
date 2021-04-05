@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Data Alamat Negatif Case - Nomor Ponsel with Symbol and Alphabet with another valid Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39f4dd47-0c67-41d1-a4d9-934813a565ba</testCaseGuid>
+</TestCaseEntity>
